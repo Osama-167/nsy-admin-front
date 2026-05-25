@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "nsybckend.railway.internal",
+  baseURL: "nsybckend-production-a891.up.railway.app",
 });
 
 // =====================
